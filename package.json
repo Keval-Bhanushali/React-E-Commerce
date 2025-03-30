@@ -20,6 +20,7 @@
     "ioredis": "^5.5.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.12.1",
+    "razorpay": "^2.9.6",
     "stripe": "^17.7.0"
   },
   "devDependencies": {
